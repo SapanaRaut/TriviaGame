@@ -1,0 +1,39 @@
+.col-md-12{
+  height: 50px;
+}
+.container{
+  background-color: #FFEFD5;
+
+}
+ h1, h2 .jumbotron {
+  text-align: center;
+  font-size: 10px;
+  font-family: "Times New Roman", Times, serif;
+  color: #FF4500;
+}
+
+.jumbotron {
+  background-image:url(../images/header05.jpeg);
+}
+
+body {
+  font-family: verdana, sans-serif;
+  text-align: center;
+  font-size: 12px;
+  color: #FF4500;
+  
+
+}
+
+img {
+  width: 350px;
+  height: 300px;
+}
+
+.btn { 
+  color: #ffffff; 
+  background-color: red; 
+  font-size: 16px;
+  border-color: #FFFFFF; 
+} 
+ 
